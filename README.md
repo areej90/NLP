@@ -1,5 +1,6 @@
 # Natural Language Processing (NLP)
 
+![nlp](images/nlp.jpg)
 
 ## Table of Contents
 
